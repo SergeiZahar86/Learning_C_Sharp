@@ -2,7 +2,7 @@
 
 namespace Learning_C_Sharp
 {
-    class Program
+    class HelloWorld
     {
         static void Main (string[] args)
         {
