@@ -8,7 +8,7 @@ namespace Learning_C_Sharp
         {
             Console.WriteLine ("Hello World!");
             Console.WriteLine ("Hello World twice");
-            //Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
