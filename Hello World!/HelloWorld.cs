@@ -7,7 +7,7 @@ namespace Learning_C_Sharp
         static void Main(string[] args)
         {
             Computer comp = new Computer();
-            comp.Launch("Windows 8.1");
+            comp.Launch("Windows 8.1");          
             Console.WriteLine(comp.Os.Name);
 
             // у нас не получится изменить ОС, так как объект уже создан    
